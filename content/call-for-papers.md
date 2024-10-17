@@ -1,5 +1,5 @@
 ---
-title: "Back to the Future: The 53rd Annual Conference of the Canadian Association for Information Science"
+title: "Retour vers le futur: 53ième Congrès Annuel de l'Association canadienne des sciences de l'information"
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: false
@@ -13,45 +13,45 @@ header:
 ---
 
 
-## Call for papers
+## Appels à contributions
 
-This year's theme, "Back to the Future” is a nod to our return to gathering **back in person** for the CAIS conference, after five years exclusively online. It also denotes the CAIS community’s over half-a-century tradition of conferring with other members of our interdisciplinary community about our shared values and mission, which we continually **return** to for guidance as our field evolves. Just as this theme roots us back to CAIS’ core principles of openness and inclusivity, it also turns our minds towards the **future** of our field. It asks: how do we draw on and learn from our past to shape our future? The researchers and practitioners comprising our community may consider where we came from, where we are going, and the threads that unite past and future, as we gather as an academic community in the present.
+Le thème de cette année, retour vers le futur, fait référence à notre retour à mode présentiel pour le congrès de l'ACSI suite à cinq congrès tenus exclusivement en ligne. Il souligne également la tradition de plus d’un demi-siècle de rencontres entre les membres de la communauté interdisciplinaire de l'ACSI pour définir et partager les valeurs et enjeux qui nous tiennent à coeur, et auxquelles nous revenons continuellement pour nous naviguer l'évolution de notre domaine. Tout comme ce thème nous ramène aux principes fondamentaux d’ouverture et d’inclusivité de l'ACSI, il nous tourne également vers l’avenir. Il pose la question : comment tirer des leçons de notre passé pour façonner notre avenir? Alors que nous nous réunissons en tant que communauté académique en ce temp présent, nous invitons les chercheurs et praticiens de notre communauté à réfléchir à nos origines, à nos destinations et aux liens qui unissent le passé et l’avenir.
 
-CAIS is committed to embracing diversity and incorporating a range of perspectives in the field of information science. We invite researchers, practitioners, and students to join us in exploring the many facets of information science and its impact on individuals, communities, and society as a whole. 
+L'ACSI a un engagement fort envers l'ouverture et l'inclusion de diverses perspectives pour enrichir le domaine des sciences de l’information. Nous invitons les chercheurs, les praticiens et les étudiants à se joindre à nous pour explorer les multiples facettes des sciences de l’information et leur impact sur les individus, les communautés, les organisations, et la société dans son ensemble. 
 
-We encourage submissions that showcase a range of methodologies, theoretical perspectives, and areas of focus, including but not limited to:
+Nous encourageons les soumissions avec diverses méthodologies, perspectives théoriques, et thématiques, y compris mais sans s’y limiter :
 
-- Information seeking and behaviour
-- Information literacy and education
-- Knowledge management and organization
-- Information technologies and systems
-- Social media
-- Bibliometrics and scholarly communication
-- Information policy and ethics
-- Cultural heritage and preservation
-- Health information management
-- Diversity, equity, and inclusion in information science
+- Les comportements informationnels
+- La culture de l’information et l’éducation
+- La gestion et l’organisation des connaissances
+- Les technologies et systèmes d’information
+- Les médias sociaux
+- La bibliométrie et la communication savante
+- La politique et l’éthique de l’information
+- Le patrimoine culturel et la préservation
+- La gestion de l’information en santé et autres domaines
+- La diversité, l’équité et l’inclusion en sciences de l’information
 
-## Types of submissions
 
-- <strong>Full paper</strong>: 2000-3000 words excluding references. 
-- <strong>Work in progress</strong>: 1000-2000 words excluding references.
-- <strong>Poster</strong>: 500-1000 words excluding references.
-- <strong>Panel</strong>: 500-1000 words excluding references.
+## Types de contributions
 
-## Submissions
+- <strong>Article</strong> : 2000-3000 mots, références non incluses.
+- <strong>Travail en cours</strong> : 1000-2000 mots, références non incluses.
+- <strong>Affiche</strong> : 500-1000 mots, références non incluses.
+- <strong>Panel</strong> : 500-1000 mots, références non incluses.
 
-Please use the submission template (available in <a href="https://cais2025.netlify.app/CAIS2025_template.docx">English</a> or <a href="https://cais2025.netlify.app/ACSI2025_modèle.docx">French</a>) to prepare your submission. Then submit <a href = "https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions">here</a>.
+## Soumission
 
-## Student research forum
+Veuillez utiliser le gabarit (disponible en <a href="https://acsi2025.netlify.app/ACSI2025_modèle.docx">français</a> ou en <a href="https://acsi2025.netlify.app/CAIS2025_template.docx">anglais</a>) pour préparer votre soumission, puis soumettez <a href = "https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions">ici</a>.
 
-We are pleased to invite master’s and doctoral students at any stage of their program to CAIS’s Student Research Forum. The Forum aims to allow graduate students to discuss their research projects, get feedback, and connect with other students. Please be prepared to present informally on an aspect of your research for 5-10 minutes. More details will be provided upon acceptance. 
+## Forum des étudiants
 
-To participate in the Forum, fill out the <a href="https://forms.gle/HE3t4gim3XSym6eH9">submission form</a>.
+Nous sommes heureux d’inviter les étudiants de maîtrise et de doctorat à n’importe quel stade de leur programme au forum des étudiants de l'ACSI. Le forum vise à permettre aux étudiants de discuter de leurs projets de recherche, d’obtenir de la rétroaction et de tisser des liens. Veuillez être prêts à présenter de manière informelle un aspect de votre recherche pendant 5 à 10 minutes. Plus de détails seront fournis après acceptation.
+Pour participer au forum, veuillez remplir ce <a href="https://forms.gle/HE3t4gim3XSym6eH9">formulaire</a>.
 
-## Important dates 
+## Dates importantes 
 
-- <strong>Submission deadline</strong>: January 8, 2025, midnight Pacific Time.
-- <strong>Notification of acceptance</strong>: No later than March 15, 2025.
-- <strong>Submission of final versions</strong>: No later than April 30, 2025.
-- <strong>Conference</strong>: May 27-29, 2025.
+- <strong>Date limite de soumission</strong> : 8 janvier 2025, minuit heure du Pacifique.
+- <strong>Notification d’acceptation</strong> : Au plus tard le 15 mars 2025.
+- <strong>Soumission des versions finales</strong> : Au plus tard le 30 avril 2025.
+- <strong>Conférence</strong> : 27-29 mai 2025.
