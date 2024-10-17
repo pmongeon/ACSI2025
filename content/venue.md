@@ -44,7 +44,7 @@ Le campus Studley de Dalhousie est idéalement situé à proximité des options 
 - L’aéroport international Stanfield de Halifax est situé à 30 minutes en dehors de la ville. 
 - Consultez [cette page](https://www.dal.ca/campus_life/orientation/helpful-tips/getting-to-Halifax.html) pour des conseils utiles sur la façon de se rendre à Halifax depuis l’aéroport en bus, taxi ou voiture. 
 
-## Accommodations
+## Hébergement
 
 Il y a plusieurs hôtels et hébergements à distance de marche du lieu de la conférence, offrant des options confortables pour nos participants. Nous recommandons les suivants:
 - [Cambridge Suites Hotel](https://www.cambridgesuiteshalifax.com/)
