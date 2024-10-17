@@ -4,27 +4,27 @@
 #   The weight parameter defines the order that the links will appear in.
 
 #[[main]]
-#  name = "Home"
+#  name = "Accueil"
 #  url = "#about"
 #  weight = 10
 
 [[main]]
-  name = "Call for papers"
+  name = "Appel à contributions"
   url = "call-for-papers/"
   weight = 15
 
 [[main]]
-  name = "Venue"
+  name = "Lieu"
   url = "venue/"
   weight = 18 
 
 [[main]]
-  name = "Registration"
+  name = "Inscription"
   url = "registration/"
   weight = 20
 
 #[[main]]
-#  name = "Program"
+#  name = "Programme"
 #  url = "program/"
 #  weight = 30
 
@@ -34,7 +34,7 @@
   weight = 60
 
 [[main]]
-  name = "French"
-  url = "https://acsi2025.ca"
+  name = "English"
+  url = "https://cais2025.ca"
   weight = 70
 
