@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Inscriptions
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: false
@@ -12,12 +12,12 @@ header:
   image: ""
 ---
 
-We expect registration to open on <strong>March 1st 2025</strong>.
+Nous prévoyons ouvrir l'inscription <strong>le 1er mars 2025</strong>.
 
-Accessibility being one of the core values of CAIS and of the LIS field, <strong>virtual</strong> participation in the conference will remain <strong>free</strong>, and we are working hard to keep registration fees for in-person participants as low as possible. Below are our current estimates, which we hope to reduce with sponsorships.
+L’accessibilité étant l’une des valeurs fondamentales de la CAIS et du domaine des sciences de l’information, la participation <strong>virtuelle</strong> à la conférence restera <strong>gratuite</strong>, et nous travaillons dur pour maintenir les frais d’inscription pour les participants en personne aussi bas que possible. Voici les estimations actuelles que nous cherchons à réduire à l'aide de commenditaires.
 
-- In-person regular (non CAIS members): 140$
-- In-person regular (CAIS members): $100
-- In-person student (non CAIS members): $60
-- In-person student (CAIS member): $40
-- Virtual: $0
+- En personne, régulier (non membres de l'ACSI) : 140$
+- En personne, régulier (membres de l'ACSI) : 100$
+- En personne, étudiant (non membres de l'ACSI) : 60$
+- En personne, étudiant (membres de l'ACSI) : 40$
+- Virtuel : 0$

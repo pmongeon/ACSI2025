@@ -24,31 +24,27 @@ social:
 #  link: https://twitter.com/cais_acsi
   
 ---
-## Welcome to CAIS 2025
+## Bienvenue au congrès de l'ACSI 2025
 
-The Canadian Association for Information Science (CAIS/ACSI) is pleased to announce its 53rd annual conference to be held in a <strong>hybrid format</strong> at Dalhousie University, in the beautiful and vibrant oceanside city of <strong>Halifax, Nova Scotia from May 27-29, 2025</strong>. 
+L’Association canadienne des sciences de l’information (ACSI/CAIS) est heureuse d’annoncer son 53e congrès annuel qui se tiendra en <strong>format hybride</strong> à l’Université Dalhousie, dans la belle et dynamique ville côtière de <strong>Halifax, Nouvelle-Écosse, du 27 au 29 mai 2025</strong>.
 
-This year's conference is hosted by the Department of Information Science of Dalhousie University, in partnership with its annual student-run conference, Information Without Borders (IWB). We are thrilled to combine the longstanding tradition of Information Science students and professionals gathering for IWB in Halifax with this year’s CAIS conference.
+Le congrès de cette année est organisé par le Département des sciences de l’information de l’Université Dalhousie, en partenariat avec Information Without Borders (IWB), un évènement organisé par nos étudiants. 
 
-We look forward to welcoming you to Halifax!
+Nous avons hâte de vous accueillir à Halifax!
 
+## Dates importantes
+- <strong>Date limite de soumission</strong> : 8 janvier 2025, minuit heure du Pacifique.
+- <strong>Notification d’acceptation</strong> : Au plus tard le 15 mars 2025.
+- <strong>Soumission des versions finales</strong> : Au plus tard le 30 avril 2025.
+- <strong>Congrès</strong> : 27-29 mai 2025.
 
-## Important dates 
+## Comité organisateur
+Philippe Mongeon, Université Dalhousie
+Sandra Toze, Université Dalhousie
+Geoff Krause, Université Dalhousie
+Maddie Hare, Université d’Ottawa
+Poppy Riddle, Université Dalhousie
+Rebecca Marjoram, Université Dalhousie
 
-- <strong>Submission deadline</strong>: January 8, 2025, midnight Pacific Time.
-- <strong>Notification of acceptance</strong>: No later than March 15, 2025.
-- <strong>Submission of final versions</strong>: No later than April 30, 2025.
-- <strong>Conference</strong>: May 27-29, 2025.
-
-## Organizing committee
-
-- Philippe Mongeon, Dalhousie University
-- Sandra Toze, Dalhousie University
-- Geoff Krause, Dalhousie University
-- Maddie Hare, University of Ottawa
-- Poppy Riddle, Dalhousie University
-- Rebecca Marjoram, Dalhousie University
-
-## Contact us
-
-For more information, contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
+## Contactez-nous
+Pour plus d’informations, contactez-nous à l’adresse suivante : <a href=“mailto:conference@cais-acsi.ca”>conference@cais-acsi.ca</a>.

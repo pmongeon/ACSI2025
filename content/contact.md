@@ -1,5 +1,5 @@
 ---
-title: Get in touch 
+title: Contactez-nous 
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: false
@@ -11,7 +11,7 @@ header:
   caption: ""
   image: ""
 ---
-## Organizing committee
+## Comité organisateur
 
 - Philippe Mongeon, Dalhousie University
 - Sandra Toze, Dalhousie University
@@ -20,6 +20,6 @@ header:
 - Poppy Riddle, Dalhousie University
 - Rebecca Marjoram, Dalhousie University
 
-## Contact us
+## Contactez-nous
 
 For more information, contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.

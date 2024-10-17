@@ -1,5 +1,5 @@
 ---
-title: Welcome to Halifax and Dalhousie University
+title: Bienvenue à Halifax et à l’Université Dalhousie
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: false
@@ -12,42 +12,43 @@ header:
   image: ""
 
 ---
-## Welcome to Halifax! 
+## Bienvenue à Halifax! 
 
-Halifax is located in the unceded territories of the Mi’kmaw, Wolastoqey, and Peskotomuhkati Peoples. These sovereign nations hold inherent rights as the original peoples of these lands, and we each carry collective obligations under the Peace and Friendship Treaties. Section 35 of the Constitution Act, 1982 recognizes and affirms Aboriginal and Treaty rights in Canada.
+Halifax est située sur les territoires non cédés des peuples Mi’kmaw, Wolastoqey et Peskotomuhkati. Ces nations souveraines détiennent des droits inhérents en tant que peuples originels de ces terres, et nous avons tous des obligations collectives en vertu des traités de paix et d’amitié. L’article 35 de la Loi constitutionnelle de 1982 reconnaît et affirme les droits ancestraux et issus de traités au Canada.
 
-Vibrant capital of Nova Scotia, Halifax is also renowned for its rich maritime history, picturesque waterfront, and dynamic cultural scene. With its friendly atmosphere and stunning coastal views, Halifax offers an ideal backdrop for CAIS 2025. We invite you to explore all that this beautiful city has to offer during your stay. 
+Capitale dynamique de la Nouvelle-Écosse, Halifax est également renommée pour sa riche histoire maritime, son front de mer pittoresque et sa scène culturelle dynamique. Avec son atmosphère conviviale et ses vues côtières époustouflantes, Halifax offre un cadre idéal pour la CAIS 2025. Nous vous invitons à découvrir tout ce que la ville a à offrir pendant votre séjour.
 
 ![Picture of Halifax](/Halifax.jpg)
 
-Take advantage of your time in Halifax by exploring the city's rich culture and attractions. Be sure to visit:
-- [Halifax Waterfront](https://discoverhalifaxns.com/things-to-do/halifax-waterfront/): Enjoy scenic views, shops, and restaurants along the waterfront.
-- [Halifax Citadel National Historic Site](https://www.novascotia.com/see-do/attractions/halifax-citadel-national-historic-site/1440): Discover the city's military history at this iconic fortress.
-- [Public Gardens](https://www.halifaxpublicgardens.ca/): Stroll through these beautiful Victorian gardens, perfect for relaxation and reflection.
+Profitez de votre séjour à Halifax pour explorer la riche culture et les attractions de la ville. Assurez-vous de visiter :
+- [Le quai d’Halifax](https://discoverhalifaxns.com/things-to-do/halifax-waterfront/): Profitez des vues pittoresques, des boutiques et des restaurants le long du front de mer.
+- [Le site historique national de la Citadelle d’Halifax](https://www.novascotia.com/see-do/attractions/halifax-citadel-national-historic-site/1440): Découvrez l’histoire militaire de la ville dans cette forteresse emblématique.
+- [Les Jardins Publics](https://www.halifaxpublicgardens.ca/): Promenez-vous dans ces magnifiques jardins victoriens, parfaits pour la détente et la réflexion.
 
-## Dalhousie University 
+## L'Université Dalhousie
 
-Our conference is hosted at Dalhousie University, a leading institution in research and innovation with a strong tradition of academic excellence. Founded in 1818, Dalhousie is one of Canada’s oldest universities, and its stunning campus is nestled right in the heart of Halifax. Attendees will have the chance to explore Dalhousie's beautiful grounds and experience the university’s inspiring atmosphere.
+Le congrès se tiendra à l’Université Dalhousie, une institution de premier plan en matière de recherche et d’innovation, avec une forte tradition d’excellence académique. Fondée en 1818, Dalhousie est l’une des plus anciennes universités du Canada, et son magnifique campus est niché en plein cœur de Halifax. Les participants auront l’occasion d’explorer le magnifique campus de Dalhousie et de découvrir l’atmosphère inspirante de l’université.
+
 
 ![Picture of Dalhousie University](/Dalhousie.jpeg)
 
-The Kenneth C. Rowe Management Building will serve as our main conference venue. Known for its modern design and top-tier facilities, this space provides the ideal environment for professional gatherings. Its central location makes it easy to explore the surrounding area and enjoy all that Halifax has to offer!
+Le Kenneth C. Rowe Management Building sera notre principal lieu de conférence. Connu pour son design moderne et ses installations de premier ordre, cet espace offre un environnement idéal pour les rassemblements professionnels. Sa situation centrale permet de facilement explorer les environs et de profiter de tout ce que Halifax a à offrir!
 
 ![Picture of the Kenneth C. Rowe building](/Rowe.jpeg)
 
-## Venue Information
+## Lieu du congrès
 Kenneth C. Rowe Management Building
 6100 University Ave, Halifax, NS
 
-## Getting to the Venue
-
-Dalhousie’s Studley campus is conveniently located near public transportation options, making it easy for attendees to reach the venue from various parts of the city.
-Airport: Halifax Stanfield International Airport is located 30 minutes outside of the city. See this page for helpful tips for getting to Halifax from the airport by bus, taxi, or car: [https://www.dal.ca/campus_life/orientation/helpful-tips/getting-to-Halifax.html]
+Le campus Studley de Dalhousie est idéalement situé à proximité des options de transport en commun, ce qui permet aux participants d'accéder facilement au congrès depuis différents secteurs de la ville. 
+- L’aéroport international Stanfield de Halifax est situé à 30 minutes en dehors de la ville. 
+- Consultez [cette page](https://www.dal.ca/campus_life/orientation/helpful-tips/getting-to-Halifax.html) pour des conseils utiles sur la façon de se rendre à Halifax depuis l’aéroport en bus, taxi ou voiture. 
 
 ## Accommodations
 
-There are several hotels and accommodations within walking distance of the venue, providing comfortable options for our attendees. We recommend the following:
+Il y a plusieurs hôtels et hébergements à distance de marche du lieu de la conférence, offrant des options confortables pour nos participants. Nous recommandons les suivants:
 - [Cambridge Suites Hotel](https://www.cambridgesuiteshalifax.com/)
 - [Lord Nelson Hotel & Suites](https://lordnelsonhotel.ca/)
-- Stay on Dalhousie campus (more information to come)
+- Séjournez sur le campus de Dalhousie (plus d’informations à venir)
+
 
