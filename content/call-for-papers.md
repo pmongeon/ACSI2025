@@ -1,5 +1,5 @@
 ---
-title: "Retour vers le futur: 53ième Congrès Annuel de l'Association canadienne des sciences de l'information"
+title: "Retour vers le futur: 53ième congrès annuel de l'Association canadienne des sciences de l'information"
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: false
