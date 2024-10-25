@@ -46,8 +46,7 @@ Veuillez utiliser le gabarit (disponible en <a href="https://acsi2025.netlify.ap
 
 ## Forum des étudiants
 
-Nous sommes heureux d’inviter les étudiants de maîtrise et de doctorat à n’importe quel stade de leur programme au forum des étudiants de l'ACSI. Le forum vise à permettre aux étudiants de discuter de leurs projets de recherche, d’obtenir de la rétroaction et de tisser des liens. Veuillez être prêts à présenter de manière informelle un aspect de votre recherche pendant 5 à 10 minutes. Plus de détails seront fournis après acceptation.
-Pour participer au forum, veuillez remplir ce <a href="https://forms.gle/HE3t4gim3XSym6eH9">formulaire</a>.
+Nous sommes heureux d’inviter les étudiants de maîtrise et de doctorat à n’importe quel stade de leur programme au forum des étudiants de l'ACSI. Le forum vise à permettre aux étudiants de discuter de leurs projets de recherche, d’obtenir de la rétroaction et de tisser des liens. Veuillez être prêts à présenter de manière informelle un aspect de votre recherche pendant 5 à 10 minutes. Plus d’informations sur la participation au Forum seront fournies lors de l’ouverture des inscriptions en mars.
 
 ## Dates importantes 
 

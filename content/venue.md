@@ -49,6 +49,6 @@ Le campus Studley de Dalhousie est idéalement situé à proximité des options 
 Il y a plusieurs hôtels et hébergements à distance de marche du lieu de la conférence, offrant des options confortables pour nos participants. Nous recommandons les suivants:
 - [Cambridge Suites Hotel](https://www.cambridgesuiteshalifax.com/)
 - [Lord Nelson Hotel & Suites](https://lordnelsonhotel.ca/)
-- Séjournez sur le campus de Dalhousie (plus d’informations à venir)
+- Séjournez sur le campus de Dalhousie. Nous offrirons un tarif de groupe pour les participants qui souhaitent séjourner sur le campus à un coût réduit. Plus d’informations à venir!
 
 

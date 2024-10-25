@@ -24,11 +24,13 @@ social:
 #  link: https://twitter.com/cais_acsi
   
 ---
+![Picture of bannerhead](/banière.jpg)
+
 ## Bienvenue au congrès de l'ACSI 2025
 
 L’Association canadienne des sciences de l’information (ACSI/CAIS) est heureuse d’annoncer son 53e congrès annuel qui se tiendra en <strong>format hybride</strong> à l’Université Dalhousie, dans la belle et dynamique ville côtière de <strong>Halifax, Nouvelle-Écosse, du 27 au 29 mai 2025</strong>.
 
-Le congrès de cette année est organisé par le Département des sciences de l’information de l’Université Dalhousie, en partenariat avec Information Without Borders (IWB), un évènement organisé par nos étudiants. 
+Le congrès de cette année est organisé par le Département des sciences de l’information de l’Université Dalhousie. 
 
 Nous avons hâte de vous accueillir à Halifax!
 
@@ -39,12 +41,12 @@ Nous avons hâte de vous accueillir à Halifax!
 - <strong>Congrès</strong> : 27-29 mai 2025.
 
 ## Comité organisateur
-Philippe Mongeon, Université Dalhousie
-Sandra Toze, Université Dalhousie
-Geoff Krause, Université Dalhousie
-Maddie Hare, Université d’Ottawa
-Poppy Riddle, Université Dalhousie
-Rebecca Marjoram, Université Dalhousie
+- Philippe Mongeon, Université Dalhousie
+- Maddie Hare, Université d’Ottawa
+- Geoff Krause, Université Dalhousie
+- Constance Poitras, Université de Montréal
+- Poppy Riddle, Université Dalhousie
+- Sandra Toze, Université Dalhousie
 
 ## Contactez-nous
 Pour plus d’informations, contactez-nous à l’adresse suivante : <a href=“mailto:conference@cais-acsi.ca”>conference@cais-acsi.ca</a>.
