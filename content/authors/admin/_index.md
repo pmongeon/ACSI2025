@@ -24,7 +24,7 @@ social:
 #  link: https://twitter.com/cais_acsi
   
 ---
-![Picture of bannerhead](/banière.jpg)
+![Picture of bannerhead](/banière.jpeg)
 
 ## Bienvenue au congrès de l'ACSI 2025
 
