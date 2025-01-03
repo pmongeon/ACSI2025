@@ -50,7 +50,7 @@ Nous sommes heureux d’inviter les étudiants de maîtrise et de doctorat à n�
 
 ## Dates importantes 
 
-- <strong>Date limite de soumission</strong> : 8 janvier 2025, minuit heure du Pacifique.
+- <strong>Date limite de soumission</strong> : ~~8 janvier 2025~~ 20 janvier 2025, minuit heure du Pacifique.
 - <strong>Notification d’acceptation</strong> : Au plus tard le 15 mars 2025.
 - <strong>Soumission des versions finales</strong> : Au plus tard le 30 avril 2025.
 - <strong>Conférence</strong> : 27-29 mai 2025.

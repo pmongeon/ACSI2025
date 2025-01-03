@@ -35,7 +35,7 @@ Le congrès de cette année est organisé par le Département des sciences de l�
 Nous avons hâte de vous accueillir à Halifax!
 
 ## Dates importantes
-- <strong>Date limite de soumission</strong> : 8 janvier 2025, minuit heure du Pacifique.
+- <strong>Date limite de soumission</strong> : ~~8 janvier 2025~~ 20 janvier 2025, minuit heure du Pacifique.
 - <strong>Notification d’acceptation</strong> : Au plus tard le 15 mars 2025.
 - <strong>Soumission des versions finales</strong> : Au plus tard le 30 avril 2025.
 - <strong>Congrès</strong> : 27-29 mai 2025.
