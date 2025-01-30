@@ -42,7 +42,7 @@ Nous encourageons les soumissions avec diverses méthodologies, perspectives th�
 
 ## Soumission
 
-Veuillez utiliser le gabarit (disponible en <a href="https://acsi2025.netlify.app/ACSI2025_modèle.docx">français</a> ou en <a href="https://acsi2025.netlify.app/CAIS2025_template.docx">anglais</a>) pour préparer votre soumission, puis soumettez <a href = "https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions">ici</a>.
+<strong>Les soumissions pour le congrès de l'ACSI 2025 sont fermées.</strong>
 
 ## Forum des étudiants
 
