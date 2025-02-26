@@ -29,6 +29,11 @@
 #  weight = 30
 
 [[main]]
+  name = "Commanditaires"
+  url = "commanditaires/"
+  weight = 40
+
+[[main]]
   name = "Contact"
   url = "contact/"
   weight = 60
