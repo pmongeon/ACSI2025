@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-Nous prévoyons ouvrir l'inscription <strong>le 1er mars 2025</strong>.
+Nous prévoyons ouvrir l'inscription <strong>le 1er mars 2025</strong>. L'inscription via [Eventbrite peut être trouvée ici](https://www.eventbrite.com/e/1242367096429).
 
 L’accessibilité étant l’une des valeurs fondamentales de la CAIS et du domaine des sciences de l’information, la participation <strong>virtuelle</strong> à la conférence restera <strong>gratuite</strong>, et nous travaillons dur pour maintenir les frais d’inscription pour les participants en personne aussi bas que possible. Voici les estimations actuelles que nous cherchons à réduire à l'aide de commenditaires.
 
