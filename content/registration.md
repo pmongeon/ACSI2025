@@ -12,12 +12,12 @@ header:
   image: ""
 ---
 
-Nous prévoyons ouvrir l'inscription <strong>le 1er mars 2025</strong>.
+Cliquez sur le liens suivant pour vous inscrire au congrès : [https://www.eventbrite.com/e/1242367096429](https://www.eventbrite.com/e/1242367096429).
 
-L’accessibilité étant l’une des valeurs fondamentales de la CAIS et du domaine des sciences de l’information, la participation <strong>virtuelle</strong> à la conférence restera <strong>gratuite</strong>, et nous travaillons dur pour maintenir les frais d’inscription pour les participants en personne aussi bas que possible. Voici les estimations actuelles que nous cherchons à réduire à l'aide de commenditaires.
+L'accessibilité étant l'une des valeurs fondamentales de l'ACSI et du domaine des sciences de l'information et des bibliothèques, la participation virtuelle à la conférence restera gratuite et nous sommes fiers d'offrir des frais d'inscription réduits grâce à l'aide de nos généreux [commanditaires](https://acsi2025.ca/sponsors/).
 
-- En personne, régulier (non membres de l'ACSI) : 140$
-- En personne, régulier (membres de l'ACSI) : 100$
-- En personne, étudiant (non membres de l'ACSI) : 60$
-- En personne, étudiant (membres de l'ACSI) : 40$
+- En personne, régulier (non membres de l'ACSI) : ~~140$~~ 100$ 
+- En personne, régulier (membres de l'ACSI) : ~~100$~~ 60$
+- En personne, étudiant (non membres de l'ACSI) : ~~60$~~ 20$
+- En personne, étudiant (membres de l'ACSI) : ~~40$~~ 0$
 - Virtuel : 0$
