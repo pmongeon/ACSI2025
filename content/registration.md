@@ -21,3 +21,6 @@ L'accessibilité étant l'une des valeurs fondamentales de l'ACSI et du domaine 
 - En personne, étudiant (non membres de l'ACSI) : ~~60$~~ 20$
 - En personne, étudiant (membres de l'ACSI) : ~~40$~~ 0$
 - Virtuel : 0$
+
+Avec le soutien du Fonds des initiatives EDID de la Fédération des sciences humaines, nous sommes heureuse d'offrir un certain nombre de bourses d'inscription aux participants BIPOC. Le formulaire d'application candidature sera disponible ici le 15 mars.
+
