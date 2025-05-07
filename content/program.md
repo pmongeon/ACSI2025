@@ -1,5 +1,5 @@
 ---
-title: Program
+title: Programme
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: false
@@ -379,19 +379,19 @@ Important: veuillez noter que les plages horaires indiquées sont à l'heure de 
 </table>
 
 
-## Social Program
+## Programme social
 
-The CAIS conference committee is pleased to offer several events for conference attendees to network and engage in an informal atmosphere. See below for more details.
+Nous sommes heureux d'offrir aux participants du congrès quelques activités de réseautage dans un atmosphère informel.
 
-<strong>Day 1: Conference reception at The Social</strong>
+<strong>Jour 1: Réception au The Social</strong>
 
 ![The Social poster](/Reception.png)
 
-<strong>Day 2: Dinner at the Old Triangle</strong>
+<strong>Jour 2: Diner au Old Triangle</strong>
 
 ![Old Triangle poster](/OldTriangle.png)
 
-<strong>Day 3: Guided tour of Halifax Citadel National Historic Site!</strong>
+<strong>Jour 3: Visite guidée du Lieu historique national de la Citadelle-d'Halifax!</strong>
 
 ![Citadel Tour poster](/Citadel.png)
 
