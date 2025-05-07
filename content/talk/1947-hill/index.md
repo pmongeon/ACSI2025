@@ -1,0 +1,25 @@
+---
+title: "Reversing the Gaze: Ontario Public Library Managers’ Perception of and Experience with Accommodation for Disability"
+abstract: "Library workers with disabilities remain underrepresented within libraries. This research investigates this problem by turning its gaze towards library managers who provide accommodations in the workplace to their staff. Preliminary findings indicate a strong interest in providing accommodation in the interview process and in the workplace, but a tendency not to signal that openness. Ideas for better signalling desire and willingness to accommodate for disability are recommended."
+location: Rowe 1014 and Zoom
+date: 2025-05-29T10:30:00.763Z
+date_end: 2025-05-29T10:55:00.471Z
+all_day: false
+event_url: session-link
+publishDate: 2025-04-01T12:36:37.825Z
+draft: false
+featured: false
+authors:
+  - Heather Hill
+  - Kevin Oswald
+tags:
+  - "Public Libraries"
+  - "Accommodation"
+  - "Disability"
+categories:
+  - Papers
+#image:
+##  filename: featured
+##  focal_point: Smart
+##  preview_only: false
+---
