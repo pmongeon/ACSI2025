@@ -20,49 +20,34 @@ social:
 #  icon_pack: fas
 #  link: '#contact'
 #- icon: twitter
-# icon_pack: fab
-#link: https://twitter.com/cais_acsi
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
- 
+#  icon_pack: fab
+#  link: https://twitter.com/cais_acsi
+  
 ---
-![Picture of bannerhead](/banner.jpg)
+![Picture of bannerhead](/banière.jpeg)
 
-## Welcome to CAIS 2025
+## Bienvenue au congrès de l'ACSI 2025
 
-The Canadian Association for Information Science (CAIS/ACSI) is pleased to announce its 53rd annual conference to be held in a <strong>hybrid format</strong> at Dalhousie University, in the beautiful and vibrant oceanside city of <strong>Halifax, Nova Scotia from May 27-29, 2025</strong>. 
+L’Association canadienne des sciences de l’information (ACSI/CAIS) est heureuse d’annoncer son 53e congrès annuel qui se tiendra en <strong>format hybride</strong> à l’Université Dalhousie, dans la belle et dynamique ville côtière de <strong>Halifax, Nouvelle-Écosse, du 27 au 29 mai 2025</strong>.
 
-This year's conference is hosted by the Department of Information Science of Dalhousie University. We look forward to welcoming you to Halifax!
+Le congrès de cette année est organisé par le Département des sciences de l’information de l’Université Dalhousie. 
 
-The CAIS 2025 conference is delighted to be joined by <strong>Emily Drabinski</strong>, Associate Professor at the Queens College (CUNY) Graduate School of Library and Information Studies, who will deliver the keynote address <strong>"Libraries at the End of the World"</strong>. Her work focuses on critical perspectives in librarianship, including knowledge organization and information literacy and instruction. Drabinski is the immediate past president of the American Library Association.
+Nous avons hâte de vous accueillir à Halifax!
 
+## Dates importantes
+<strong>Les soumissions sont fermées.</strong>
+- <strong>Date limite de soumission</strong> : ~~8 janvier 2025~~ 20 janvier 2025, minuit heure du Pacifique.
+- <strong>Notification d’acceptation</strong> : Au plus tard le 15 mars 2025.
+- <strong>Soumission des versions finales</strong> : Au plus tard le 30 avril 2025.
+- <strong>Congrès</strong> : 27-29 mai 2025.
 
-## Important dates 
-<strong>Submissions to CAIS 2025 are now closed.</strong>
-- <strong>Submission deadline</strong>: ~~January 8th, 2025~~ ~~January 20th, 2025, midnight Pacific Time.~~
-- <strong>Notification of acceptance</strong>: ~~No later than March 15, 2025.~~
-- <strong>Submission of final versions</strong>: ~~No later than April 30, 2025.~~
-- <strong>Conference</strong>: May 27-29, 2025.
-
-Please note that accepted presenters will have the choice of presenting in-person or virtually.
-
-## Organizing committee
-
-- Philippe Mongeon, Dalhousie University
-- Maddie Hare, University of Ottawa
-- Geoff Krause, Dalhousie University
+## Comité organisateur
+- Philippe Mongeon, Université Dalhousie
+- Maddie Hare, Université d’Ottawa
+- Geoff Krause, Université Dalhousie
 - Constance Poitras, Université de Montréal
-- Poppy Riddle, Dalhousie University
-- Sandra Toze, Dalhousie University
+- Poppy Riddle, Université Dalhousie
+- Sandra Toze, Université Dalhousie
 
-## Translators
-We are very grateful to Université de Montréal students Ambre Lefaix-Franchi, Faye Daw-Yi Fung, and Alice Aubin-Mercier for their assistance translating the conference proceedings.
-
-## Volunteers
-
-## Contact us
-
-For more information, contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
+## Contactez-nous
+Pour plus d’informations, contactez-nous à l’adresse suivante : <a href=“mailto:conference@cais-acsi.ca”>conference@cais-acsi.ca</a>.
