@@ -12,6 +12,8 @@ header:
   image: ""
 ---
 
+Le programme détaillé est disponible en PDF [ici](ACSI2025-programme.pdf). 
+
 ## Évènement pré-congres
 
 <a href="https://cais2025.ca/aligned-events/">26 May: Archives in Action Workshop: Toward a National Policy Action Plan for Marginalized and Vulnerable Audiovisual Archives (14h30-16h30) suivi d'une projection de film et d'un panel (16h30-21h30)</a>

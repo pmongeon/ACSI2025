@@ -1,9 +1,9 @@
 ---
-title: Accessibility policies in libary and information science
-abstract: "Services to persons with disabilities is a topic of interest across library and information science (LIS). The Australian Library and Information Association (ALIA) had had a policy in place since 1998. The American Library Association (ALA) has provided a guidance policy since 2001. The Canadian Federation of Library Associations (CFLA) released their guidance policy in 2016. This paper presents a thematic analysis of these three policies to better understand how services to persons with disabilities is conceptualized."
-location: Rowe 1007 and Zoom
-date: 2025-05-27T12:36:37.763Z
-date_end: 2025-05-27T12:37:40.471Z
+title: "Understanding Information-Sharing of Artist-Researchers: Emerging Themes"
+abstract: "This poster describes the research design and identifies emerging themes of a work-in-progress dissertation study, titled Understanding information-sharing of artist-researchers. In the context of this study artist-researcher includes individuals who self-identify as enmeshing artistic and scholarly approaches to research. The doctoral research study will provide an account and analysis of how artist-researchers share (or do not share) information among themselves and others by exploring the conditions that encourage and discourage sharing. The study considers what it means to share and be shared with, and brings attention to obscured aspects of the research process."
+location: Rowe 1007 and Zoom A
+date: 2025-05-28T12:15:00.763Z
+date_end: 2025-05-28T12:25:00.471Z
 all_day: false
 event_url: session-link
 publishDate: 2025-04-01T12:36:37.825Z
@@ -14,7 +14,12 @@ authors:
 tags:
   - ""
 categories:
-  - Papers
+  - Posters
+  - Virtual
+links:
+  - name: Proceedings
+    url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1930'
+url-slides: ''
 #image:
 ##  filename: featured
 ##  focal_point: Smart
