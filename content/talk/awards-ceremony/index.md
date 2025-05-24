@@ -1,7 +1,8 @@
 ---
 title: Awards Ceremony
-abstract: "In this session, Dr. Ping Li, CAIS Awards Coordinator, will present the 2025 recipients of the CAIS Master’s Research Award, Doctoral Dissertation Award, Emerging Leader Award, and Career Achievement Award. Dr. Li will then present the conference awards, namely the Student-to-CAIS Award, Best Paper by a Practitioner Award, and Best Paper Award."
-location: Rowe 1007 and Zoom
+abstract: "Lors de cette session, Dr Ping Li, coordinatrice des prix de l'ACSI, présentera les lauréats 2025 des prix suivants : Prix d’excellence en recherche – niveau maîtrise, Prix - leader émergent
+Prix d’excellence en recherche - thèse doctorale | Prix d’excellence en carrière. Dr Li remettra ensuite les prix des meilleures propositions pour le congrès de l'ACSI2025: meilleur proposition par un.e. étudiant.e, meilleure article par un.e praticien.ne, meilleure proposition dans l'ensemble."
+location: Rowe 1007 et Zoom A
 date: 2025-05-27T10:40:00.763Z
 date_end: 2025-05-27T11:10:00.471Z
 all_day: false

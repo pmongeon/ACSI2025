@@ -49,5 +49,19 @@ Nous avons hâte de vous accueillir à Halifax!
 - Poppy Riddle, Université Dalhousie
 - Sandra Toze, Université Dalhousie
 
-## Contactez-nous
 Pour plus d’informations, contactez-nous à l’adresse suivante : <a href=“mailto:conference@cais-acsi.ca”>conference@cais-acsi.ca</a>.
+
+## Traductuers
+Merci aux étudiants de l'Université de Montréal: Ambre Lefaix-Franchi, Faye Daw-Yi Fung, and Alice Aubin-Mercier pour leur aide avec la traduction des actes du congrès.
+
+## Bénévoles
+Merci à notre équipe de bénévoles: Cindy Bergeron, Kate Gaffney, Lisa Taylor, Rebecca Marjoram, Summer Wilson, Rowan Moore, Sarah Clarkson, et Sodiq Onaolapo.
+
+## Commenditaires
+
+Merci à nos commenditaires pour leur précieux soutien.
+
+- Fédération des science humaines (Fonds pour les initiatives d'EDID) 
+- L'Association des bibliothèques de recherche du Canada (ABRC)
+- Érudit
+- ASIS&T Canada Chapter
