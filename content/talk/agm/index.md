@@ -1,7 +1,7 @@
 ---
-title: Assemblée générale annuelle de l'ACSI
+title: CAIS Annual General Meeting
 # abstract: ""
-location: Rowe 1007 et Zoom A
+location: Rowe 1007 and [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)
 date: 2025-05-29T12:00:00.763Z
 date_end: 2025-05-29T14:00:00.471Z
 all_day: false
@@ -19,4 +19,4 @@ image:
   preview_only: false
 ---
 
-L'ordre du jour pour l'assemblée générale est [ici](https://docs.google.com/document/d/1FUpJwoVCVYsiF-9OASD7tacy-I-OM8aE/edit?usp=sharing&ouid=106561254829315441731&rtpof=true&sd=true).
+The agenda for the AGM is [here](https://docs.google.com/document/d/1FUpJwoVCVYsiF-9OASD7tacy-I-OM8aE/edit?usp=sharing&ouid=106561254829315441731&rtpof=true&sd=true).
