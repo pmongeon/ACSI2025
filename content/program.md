@@ -37,7 +37,7 @@ Le programme détaillé est disponible en PDF [ici](https://acsi2025.ca/ACSI2025
     <td colspan=4 style="width:60%">Enregistrement - Rowe Atrium</td>
   </tr>
   <tr>
-      <td colspan=6><strong>Séance d'ouverture Session - Rowe 1009 et [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
+      <td colspan=6><strong>Séance d'ouverture Session - Rowe 1009 et <a href="https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1">Zoom A</a></strong><br>
       <i>Modérateur: Philippe Mongeon</i></td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Le programme détaillé est disponible en PDF [ici](https://acsi2025.ca/ACSI2025
     <td colspan=4><strong>Pause</strong></td>
   </tr>
     <tr>
-      <td colspan=6><strong>Prix de l'ACSI et du congrès - Rowe 1009 et [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
+      <td colspan=6><strong>Prix de l'ACSI et du congrès - Rowe 1009 et <a href="https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1">Zoom A</a></strong><br>
       <i>Modératrice: Ping li</i></td>
   </tr>
   <tr>
@@ -84,11 +84,11 @@ Le programme détaillé est disponible en PDF [ici](https://acsi2025.ca/ACSI2025
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Séance 1 - Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
+      <strong>Séance 1 - Rowe 1007 - <a href="https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1">Zoom A</a></strong><br>
       <i>Modératrice: Chantal Ripp</i>
     </td>
     <td colspan=3>
-      <strong>Séance 2 - Rowe 1016 - [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)</strong><br>
+      <strong>Séance 2 - Rowe 1016 - <a href="https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1">Zoom B</a></strong><br>
       <i>Modératrice: Constance Poitras</i>
     </td>
   </tr>
@@ -129,7 +129,7 @@ Le programme détaillé est disponible en PDF [ici](https://acsi2025.ca/ACSI2025
       <strong>Atelier - Rowe 1007 - en personne seulement</strong><br>
     </td>
     <td colspan=3>
-      <strong>Séance 3 - Rowe 1016 - [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)</strong><br>
+      <strong>Séance 3 - Rowe 1016 - <a href="https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1">Zoom B</a></strong><br>
       <i>Modérateur: Bertrum MacDonald</i>
     </td>
   </tr>
@@ -206,11 +206,11 @@ Le programme détaillé est disponible en PDF [ici](https://acsi2025.ca/ACSI2025
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Séance 4 - Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
+      <strong>Séance 4 - Rowe 1007 - <a href="https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1">Zoom A</a></strong><br>
       <i>Modératrice: Ping Li</i>
     </td>
     <td colspan=3>
-      <strong>Séance 5 - Rowe 1016 - [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)</strong><br>
+      <strong>Séance 5 - Rowe 1016 - <a href="https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1">Zoom B</a></strong><br>
       <i>Modérateur: Anton Boudreau Ninkov</i>
     </td>
   </tr>
@@ -244,11 +244,11 @@ Le programme détaillé est disponible en PDF [ici](https://acsi2025.ca/ACSI2025
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Séance 6 - Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
+      <strong>Séance 6 - Rowe 1007 - <a href="https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1">Zoom A</a></strong><br>
       <i>Modératrice: Julia Bullard</i>
     </td>
     <td colspan=3>
-      <strong>Séance 7 - Rowe 1016 - [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)</strong><br>
+      <strong>Séance 7 - Rowe 1016 - <a href="https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1">Zoom B</a></strong><br>
       <i>Modérateur: Nafiz Shuva</i>
     </td>
   </tr>
@@ -275,7 +275,7 @@ Le programme détaillé est disponible en PDF [ici](https://acsi2025.ca/ACSI2025
   </tr>
   <tr>
     <td colspan=2><strong>11:45am - 1:00pm</strong></td>
-    <td colspan=4><strong>Lunch (Atrium) + Présentations par affiches virtuelles (Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1))</strong><br>
+    <td colspan=4><strong>Lunch (Atrium) + Présentations par affiches virtuelles (Rowe 1007 - <a href="https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1">Zoom A</a>)</strong><br>
       <i>Modératrice: Lubna Daraz</i>
     </td>
   </tr>
@@ -301,10 +301,10 @@ Le programme détaillé est disponible en PDF [ici](https://acsi2025.ca/ACSI2025
   </tr>
  
   <tr>
-    <td colspan=2><strong>Séance 8 - Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
+    <td colspan=2><strong>Séance 8 - Rowe 1007 - <a href="https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1">Zoom A</a></strong><br>
       <i>Modératrice: Maddie Hare</i>
     </td>
-    <td colspan=2><strong>Séance 9 - Rowe 1016 - [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)</strong><br>
+    <td colspan=2><strong>Séance 9 - Rowe 1016 - <a href="https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1">Zoom B</a></strong><br>
       <i>Modérateur: Marc-André Simard</i>
     </td>
 	  <td colspan=2><strong>Forum de la recherche étudiante - Rowe 5053 - Zoom C</strong></td>
@@ -343,7 +343,7 @@ Le programme détaillé est disponible en PDF [ici](https://acsi2025.ca/ACSI2025
     <th colspan=4>Pause</th>
   </tr>
     <tr>
-    <td colspan=3><strong>Séance 10 - Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
+    <td colspan=3><strong>Séance 10 - Rowe 1007 - <a href="https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1">Zoom A</a></strong><br>
       <i>Modérateur: Geoff Krause</i>
     </td>
     <th colspan=3>Rowe 5053 - Zoom C</th>
@@ -385,11 +385,11 @@ Le programme détaillé est disponible en PDF [ici](https://acsi2025.ca/ACSI2025
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Séance 11 - Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
+      <strong>Séance 11 - Rowe 1007 - <a href="https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1">Zoom A</a></strong><br>
       <i>Modérateur: Philippe Mongeon</i>
     </td>
     <td colspan=3>
-      <strong>Séance 12 - Rowe 1016 - [Zoom B](https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1)</strong><br>
+      <strong>Séance 12 - Rowe 1016 - <a href="https://us06web.zoom.us/j/83422462331?pwd=C3h8KTen5KKaTk2rPZkFhkrqRrmOv6.1">Zoom B</a></strong><br>
       <i>Modératrice: Poppy Riddle</i>
     </td>
   </tr>
@@ -427,7 +427,7 @@ Le programme détaillé est disponible en PDF [ici](https://acsi2025.ca/ACSI2025
   </tr>
   <tr>
     <td colspan=6>
-      <strong>Cérémonie de clôture - Rowe 1007 - [Zoom A](https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1)</strong><br>
+      <strong>Cérémonie de clôture - Rowe 1007 - <a href="https://us06web.zoom.us/j/87262218920?pwd=5ioya8nZ6CaAVAsMQuMeC8MpMrUzjG.1">Zoom A</a></strong><br>
     </td>
   </tr>
  <tr>
