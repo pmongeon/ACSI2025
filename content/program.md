@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-Le programme détaillé est disponible en PDF [ici](https://acsi2025.ca/ACSI2025-programme.pdf). 
+Le programme détaillé est disponible en PDF [ici](https://acsi2025.ca/ACSI2025-programme.pdf), et les actes du congrès sont disponibles [ici](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/index).
 
 ## Évènement pré-congres
 
