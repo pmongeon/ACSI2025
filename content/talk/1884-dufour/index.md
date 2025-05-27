@@ -21,9 +21,10 @@ categories:
   - Papers
   - Hybrid
 links:
-  - name: Proceedings
+  - name: Diapositives
+    url: 'https://cais2025.ca/talk/1884-dufour/CAIS2025-1884-Dufour-Diapos.pdf'
+  - name: Actes
     url: 'https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1884'
-url-slides: 'https://cais2025.ca/talk/1884-dufour/CAIS2025-1884-Dufour-Diapos.pdf'
 
 #image:
 ##  filename: featured
